@@ -7,7 +7,6 @@ trigger:
     include: [master,preview]
   paths:
     exclude: [CHANGELOG.md]
-
 pool:
   vmImage: ubuntu-22.04
 
@@ -46,7 +45,6 @@ jobs:
           echo dotnet msbuild `dotnet msbuild --version`
           echo dotnet nuget `dotnet nuget --version`
           echo dotnet `dotnet --version`
-
   - task: NuGetCommand@2
     name: publish
     enabled: true
