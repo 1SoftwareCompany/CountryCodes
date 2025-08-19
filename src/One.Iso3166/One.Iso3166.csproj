@@ -1,0 +1,36 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+    <RootNamespace>One.Iso3166</RootNamespace>
+    <OutputType>Library</OutputType>
+    <LangVersion>10</LangVersion>
+  </PropertyGroup>
+
+  <!--Nuget-->
+  <PropertyGroup>
+    <PackageId>One.Iso3166</PackageId>
+
+    <Product>One.Iso3166</Product>
+    <Title>One.Iso3166</Title>
+    <Description>ISO 3166 is a standard published by the International Organization for Standardization (ISO) that defines codes for the names of countries, dependent territories, special areas of geographical interest, and their principal subdivisions (e.g., provinces or states). The standard employs a code of letters and numbers to represent the name of a given geographical area in order to save time and energy when describing the area, as well as to reduce the risk of description errors. The official name of the standard is Codes for the representation of names of countries and their subdivisions.</Description>
+    <PackageTags>1366 ISO country code region code standard</PackageTags>
+
+    <Copyright>Copyright © 1Software</Copyright>
+    <PackageLicenseExpression>Apache-2.0</PackageLicenseExpression>
+    <RequireLicenseAcceptance>true</RequireLicenseAcceptance>
+
+    <!--<ReleaseNotes>https://github.com/Elders/Cronus/blob/preview/CHANGELOG.md</ReleaseNotes>
+
+    <PackageIconUrl>https://raw.githubusercontent.com/Elders/logo/master/cronus/frame.png</PackageIconUrl>-->
+    <RepositoryUrl>https://github.com/1SoftwareCompany/CountryCodes.git</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/1SoftwareCompany/CountryCodes</PackageProjectUrl>
+    <RepositoryType>git</RepositoryType>
+
+    <AssemblyName>One.CountryCodes</AssemblyName>
+    <NeutralLanguage>en-US</NeutralLanguage>
+    <GenerateAssemblyInfo>true</GenerateAssemblyInfo>
+    <AssemblyVersion>1.0.0</AssemblyVersion>
+  </PropertyGroup>
+
+</Project>

@@ -1,6 +1,6 @@
 ---
 variables:
-  PROJECT_DIR: One.CountryCodes
+  PROJECT_DIR: One.Iso3166
 trigger:
   branches:
     include: [master,preview]
