@@ -1,3 +1,10 @@
+## [2.0.4](https://github.com/1SoftwareCompany/CountryCodes/compare/v2.0.3...v2.0.4) (2025-08-19)
+
+
+### Bug Fixes
+
+* Update azure-pipelines.yml for Azure Pipelines ([094ada2](https://github.com/1SoftwareCompany/CountryCodes/commit/094ada21c0f0ef21781e15580a52e5cc73e64150))
+
 ## [2.0.3](https://github.com/Elders/CountryCodes/compare/v2.0.2...v2.0.3) (2025-03-13)
 
 
