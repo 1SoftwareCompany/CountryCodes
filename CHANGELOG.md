@@ -1,3 +1,11 @@
+## [2.0.6](https://github.com/1SoftwareCompany/CountryCodes/compare/v2.0.5...v2.0.6) (2025-08-19)
+
+
+### Bug Fixes
+
+* Rename the Project ([15fddbe](https://github.com/1SoftwareCompany/CountryCodes/commit/15fddbed0e01728c690da581c7942c7de0a624ba))
+* Update azure-pipelines.yml for Azure Pipelines ([de8c21d](https://github.com/1SoftwareCompany/CountryCodes/commit/de8c21d6027917a4e55278673583465c0a46d8ee))
+
 ## [2.0.5](https://github.com/1SoftwareCompany/CountryCodes/compare/v2.0.4...v2.0.5) (2025-08-19)
 
 
