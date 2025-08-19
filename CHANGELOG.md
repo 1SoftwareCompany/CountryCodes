@@ -1,3 +1,10 @@
+## [2.0.5](https://github.com/1SoftwareCompany/CountryCodes/compare/v2.0.4...v2.0.5) (2025-08-19)
+
+
+### Bug Fixes
+
+* trigger ([058ac3a](https://github.com/1SoftwareCompany/CountryCodes/commit/058ac3a87b77578571580e3c852d3f113a1d1d54))
+
 ## [2.0.4](https://github.com/1SoftwareCompany/CountryCodes/compare/v2.0.3...v2.0.4) (2025-08-19)
 
 
