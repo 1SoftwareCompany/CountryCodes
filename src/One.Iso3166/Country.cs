@@ -4,6 +4,7 @@ using System.Collections.ObjectModel;
 using System.Diagnostics;
 using System.Linq;
 using System.Runtime.Serialization;
+using One.Iso3166.Iso4217;
 
 namespace One.Iso3166
 {
@@ -815,6 +816,8 @@ namespace One.Iso3166
         public readonly string ThreeLetterCode => GetEntry(_countryNumericCode)._threeLetterCode;
 
         public readonly ReadOnlyCollection<Subdivision> Subdivisions => Subdivision.GetCountrySubdivisions(this);
+
+        public readonly ReadOnlyCollection<Currency> Currencies => Currency.GetCountryCurrencies(this);
 
         private static int FindId(string countryCode)
         {
