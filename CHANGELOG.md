@@ -1,3 +1,5 @@
+# [3.0.0](https://github.com/1SoftwareCompany/CountryCodes/compare/v2.0.6...v3.0.0) (2026-05-07)
+
 ## [2.0.6](https://github.com/1SoftwareCompany/CountryCodes/compare/v2.0.5...v2.0.6) (2025-08-19)
 
 
