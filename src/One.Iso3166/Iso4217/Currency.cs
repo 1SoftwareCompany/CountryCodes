@@ -216,7 +216,8 @@ public partial struct Currency : IEquatable<Currency>
     {
         CurrencyTableEntry entry = new CurrencyTableEntry(name, code, numericCode, d);
 
-        _allCurrencies.Add(entry.Id, entry);
+        if (_allCurrencies.ContainsKey(entry.Id) == false)
+            _allCurrencies.Add(entry.Id, entry);
 
         AddCurrencyToCountry(country, new Currency(entry.Id));
     }
