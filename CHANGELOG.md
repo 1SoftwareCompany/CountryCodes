@@ -1,3 +1,10 @@
+## [3.0.1](https://github.com/1SoftwareCompany/CountryCodes/compare/v3.0.0...v3.0.1) (2026-05-08)
+
+
+### Bug Fixes
+
+* Fixes an issue with adding the same key in dictionary ([85723ac](https://github.com/1SoftwareCompany/CountryCodes/commit/85723ac8f868f3e5ab24f6c68bfc7189a0dcca82))
+
 # [3.0.0](https://github.com/1SoftwareCompany/CountryCodes/compare/v2.0.6...v3.0.0) (2026-05-07)
 
 ## [2.0.6](https://github.com/1SoftwareCompany/CountryCodes/compare/v2.0.5...v2.0.6) (2025-08-19)
