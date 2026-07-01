@@ -1,3 +1,10 @@
+## [3.0.2](https://github.com/1SoftwareCompany/CountryCodes/compare/v3.0.1...v3.0.2) (2026-07-01)
+
+
+### Bug Fixes
+
+* init dependabot.yml ([f098345](https://github.com/1SoftwareCompany/CountryCodes/commit/f0983458e9b1e559ea27bf875530829359dc3eb0))
+
 ## [3.0.1](https://github.com/1SoftwareCompany/CountryCodes/compare/v3.0.0...v3.0.1) (2026-05-08)
 
 
