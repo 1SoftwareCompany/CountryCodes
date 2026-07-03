@@ -1,3 +1,10 @@
+## [3.0.4](https://github.com/1SoftwareCompany/CountryCodes/compare/v3.0.3...v3.0.4) (2026-07-03)
+
+
+### Bug Fixes
+
+*  dependabot ([754fed4](https://github.com/1SoftwareCompany/CountryCodes/commit/754fed4df3a36756a6b35f03fb8c8f04e2d0a66f))
+
 ## [3.0.3](https://github.com/1SoftwareCompany/CountryCodes/compare/v3.0.2...v3.0.3) (2026-07-02)
 
 
