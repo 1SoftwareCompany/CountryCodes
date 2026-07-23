@@ -1,3 +1,10 @@
+## [3.0.5](https://github.com/1SoftwareCompany/CountryCodes/compare/v3.0.4...v3.0.5) (2026-07-23)
+
+
+### Bug Fixes
+
+* mend renovate ([95baad7](https://github.com/1SoftwareCompany/CountryCodes/commit/95baad7f983a87c19813a33e22ead21ceee5b142))
+
 ## [3.0.4](https://github.com/1SoftwareCompany/CountryCodes/compare/v3.0.3...v3.0.4) (2026-07-03)
 
 
